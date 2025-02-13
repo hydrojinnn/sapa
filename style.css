@@ -113,9 +113,3 @@ body{
   transform: rotate(90deg);
   transition-delay: 0.4s;
 }
-.letter-img {
-    width: 100%;
-    max-width: 100px; /* Adjust size */
-    border-radius: 10px; /* Optional rounded corners */
-    margin-top: 10px;
-}
