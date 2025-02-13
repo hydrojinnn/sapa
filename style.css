@@ -115,7 +115,7 @@ body{
 }
 .letter-img {
     width: 100%;
-    max-width: 200px; /* Adjust size */
+    max-width: 100px; /* Adjust size */
     border-radius: 10px; /* Optional rounded corners */
     margin-top: 10px;
 }
